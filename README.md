@@ -12,9 +12,9 @@ States of Promise
 --------------------------
 A Promise is in one of these states:
 
-1. fullfilled : Action releted to promise succeeded
-2. rejected : Action related to promise failed
-3. pending : Has not fullfilled or rejected yet
+1. fullfilled : meaning that the operation is succeeded.
+2. rejected : meaning that the operation is failed.
+3. pending : operation is not yet fullfilled or rejected
 
 
 Why We came to the Promises
@@ -37,7 +37,13 @@ How to create Promise in ExtJS
 
 
 2. Using Ext.Deferred
-3. 
+
+Explore Promises
+------------------------------------
+
+
+Coming Soon
+
 
 Sample Application
 --------------------------------------
