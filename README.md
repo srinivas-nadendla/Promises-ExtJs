@@ -6,7 +6,7 @@ Promise
 
 The Promise is an object and it is used for asynchronous computations. A Promise represents an operation that hasn't completed yet, but is expected in the future.
 
-Promise natively intoduced in the ECMAScript-6 but before that we have lot of implementations of it like Q, RSVP.js, WinJs, when.js.
+Promise natively introduced in the ECMAScript-6 but before that we have lot of implementations of it like Q, RSVP.js, WinJs, when.js.
 
 States of Promise
 --------------------------
@@ -50,10 +50,6 @@ Sample Application
 
 
 Coming Soon
-
-
-Advantage of Promise over callback
-----------------------------------
 
 
 
