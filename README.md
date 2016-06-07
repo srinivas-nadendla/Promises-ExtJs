@@ -10,7 +10,7 @@ Promise natively intoduced in the ECMAScript-6 but before that we have lot of im
 
 States of Promise
 --------------------------
-Promise has three states
+A Promise is in one of these states:
 
 1. fullfilled : Action releted to promise succeeded
 2. rejected : Action related to promise failed
