@@ -20,9 +20,13 @@ Promise has three states
 Why We came to the Promises
 ---------------------------
 
+Coming Soon
+
 
 Advantages of Promises over Callbacks
 ---------------------------------
+
+Coming Soon
 
 
 
@@ -33,11 +37,29 @@ How to create Promise in ExtJS
 
 
 2. Using Ext.Deferred
+3. 
 
 Sample Application
 --------------------------------------
 
 
+Coming Soon
+
+
 Advantage of Promise over callback
 ----------------------------------
+
+
+
+
+
+Conclusion
+--------------------------
+
+
+
+Coming Soon
+
+
+
 
